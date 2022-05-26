@@ -7,7 +7,6 @@ import Title from '../components/Title'
 export default function Home() {
   return (
     <div className={styles.container}>
-    <Background />
 
 <script async strategy="beforeInteractive" type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
 <script async strategy="beforeInteractive" noModule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
