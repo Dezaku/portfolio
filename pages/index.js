@@ -3,7 +3,6 @@ import Image from 'next/image'
 import styles from '../styles/Home.module.css'
 import Nav from '../components/Nav'
 import Script from 'next/script'
-import Background from '../components/Background'
 import Title from '../components/Title'
 export default function Home() {
   return (
